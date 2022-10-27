@@ -12,7 +12,7 @@ To view, open [Google](https:\\www.google.com) and go to the [website]()
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
-    ![screenshot of website](assets/images/screenshot.png)
+    ![screenshot of website](image1/screenshot.png)
     ```
     
 ## License
