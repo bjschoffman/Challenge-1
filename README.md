@@ -7,14 +7,10 @@ To refactor both the HTML and CSS files to have the webpage meet accessibility s
 
 ## Usage
 
-To view, open [Google](https:\\www.google.com) and go to the [website]()
+To view, open web browser and go to the website 
+   
+![screenshot](https://user-images.githubusercontent.com/85857597/198416973-d13ef314-b510-43ce-93e6-a005d6fb8632.png)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![screenshot of website](image1/screenshot.png)
-    ```
-    
 ## License
 
 MIT License
