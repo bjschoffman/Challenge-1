@@ -7,7 +7,7 @@ To refactor both the HTML and CSS files to have the webpage meet accessibility s
 
 ## Usage
 
-To view, open web browser and go to the website 
+To view, open web browser and go to the webpage (screenshot below) at: https://bjschoffman.github.io/Challenge-1.github.io/
    
 ![screenshot](https://user-images.githubusercontent.com/85857597/198416973-d13ef314-b510-43ce-93e6-a005d6fb8632.png)
 
